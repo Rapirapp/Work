@@ -1,0 +1,5 @@
+c:\users\aaa\documents\visual studio 2012\Projects\DotNetLibrary\DotNetLibrary\bin\Debug\DotNetLibrary.dll
+c:\users\aaa\documents\visual studio 2012\Projects\DotNetLibrary\DotNetLibrary\bin\Debug\DotNetLibrary.pdb
+c:\users\aaa\documents\visual studio 2012\Projects\DotNetLibrary\DotNetLibrary\bin\Debug\DotNetLibrary.tlb
+c:\users\aaa\documents\visual studio 2012\Projects\DotNetLibrary\DotNetLibrary\obj\Debug\DotNetLibrary.dll
+c:\users\aaa\documents\visual studio 2012\Projects\DotNetLibrary\DotNetLibrary\obj\Debug\DotNetLibrary.pdb
